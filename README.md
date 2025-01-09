@@ -1,8 +1,4 @@
-# Portofolio
-
-🌐 **Visit My Website**: [https://MuhammadAsshiddiq.github.io/Portofolio/](https://MuhammadAsshiddiq.github.io/Portofolio/Main)
-
-# Dokumentasi Website
+# Website Portofolio
 
 ## Tujuan Website
 Website ini dibuat dengan tujuan sebagai berikut:
@@ -46,6 +42,10 @@ Website ini dibuat dengan tujuan sebagai berikut:
 - Gambar disesuaikan dengan perangkat pengguna menggunakan class `img-fluid`.
 - Memastikan gambar tetap proporsional di layar kecil maupun besar.
 
+### 7. Cards (Kartu)
+- Digunakan untuk menampilkan konten secara terstruktur dengan gambar, teks, dan tombol.
+- Cards menawarkan tampilan yang modern dan responsif untuk berbagai perangkat.
+
 ---
 
 ## Fitur Utama yang Berhasil Diimplementasikan
@@ -74,3 +74,5 @@ Website ini dibuat dengan tujuan sebagai berikut:
 
 ### 7. Custom Style
 - Warna, ukuran font, dan elemen lainnya disesuaikan menggunakan variabel CSS untuk konsistensi tampilan.
+
+  🌐 **Visit My Website**: [https://MuhammadAsshiddiq.github.io/Portofolio/](https://MuhammadAsshiddiq.github.io/Portofolio/Main)
