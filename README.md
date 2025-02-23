@@ -75,4 +75,4 @@ Website ini dibuat dengan tujuan sebagai berikut:
 ### 7. Custom Style
 - Warna, ukuran font, dan elemen lainnya disesuaikan menggunakan variabel CSS untuk konsistensi tampilan.
 
-  🌐 **Visit My Website**: [https://MuhammadAsshiddiq.github.io/Portofolio/](https://MuhammadAsshiddiq.github.io/Portofolio/Main)
+  🌐 **Visit My Website**: [https://MuhammadAsshiddiq.github.io/Portofolio/](https://MuhammadAsshiddiq.github.io/Portofolio/main)
